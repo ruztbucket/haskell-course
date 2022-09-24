@@ -18,21 +18,23 @@ f4 x y z = x == (y ++ z)
 
 -- Question 2
 -- Are really all variables in Haskell immutable? Try googling for the answer.
---Yes
+-- Yes
 
 
 -- Question 3
 -- Why should we define type signatures of functions? How can they help you? How can they help others?
+-- To restrict the types. Sometimes its important to be restrictive
 
 
 -- Question 4
 -- Why should you define type signatures for variables? How can they help you?
-
+-- There are no variables in haskell. Veriables are functions with no arguments
 
 -- Question 5
 -- Are there any functions in Haskell that let you transform one type to the other? Try googling for the answer.
-
+-- Yes (Learn more!)
 
 -- Question 6
 -- Can you also define in Haskell list of lists? Did we showed any example of that? How would you access the inner
 -- most elements?
+-- yes
